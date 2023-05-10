@@ -14,7 +14,7 @@ class _NalanState extends State<Nalan> {
     return Scaffold(
         drawer: const Mydrawer(),
         appBar: AppBar(
-          title: const Text("Arda4a"),
+          title: const Text("Melihcan Kabael"),
           centerTitle: true,
           actions: const [
             Icon(Icons.settings),
